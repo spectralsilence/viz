@@ -1,138 +1,220 @@
-Intel 4004,2300,1971,Intel,10000 nm,12 mm²
-Intel 8008,3500,1972,Intel,10000 nm,14 mm²
-MOS Technology 6502,3510,1975,MOS Technology,8000 nm,21 mm²
-Motorola 6800,4100,1974,Motorola,6000 nm,16 mm²
-Intel 8080,4500,1974,Intel,6000 nm,20 mm²
-RCA 1802,5000,1974,RCA,5000 nm,27 mm²
-TMS 1000,8000,1974,Texas Instruments,8000 nm,11 mm²
-Intel 8085,6500,1976,Intel,3000 nm,20 mm²
-Zilog Z80,8500,1976,Zilog,4000 nm,18 mm²
-Motorola 6809,9000,1978,Motorola,5000 nm,21 mm²
-Intel 8086,29000,1978,Intel,3000 nm,33 mm²
-Intel 8088,29000,1979,Intel,3000 nm,33 mm²
-WDC 65C02,11500,1981,WDC,3000 nm,6 mm²
-Intel 80186,55000,1982,Intel,3000 nm,60 mm²
-Motorola 68000,68000,1979,Motorola,3500 nm,44 mm²
-Intel 80286,134000,1982,Intel,1500 nm,49 mm²
-WDC 65C816,22000,1983,WDC,3000 nm,9 mm²
-Motorola 68020,190000,1984,Motorola,2000 nm,85 mm²
-Intel 80386,275000,1985,Intel,1500 nm,104 mm²
-ARM 1,25000,1985,Acorn,3000 nm,50 mm²
-Novix NC4016,16000,1985,Harris Corporation,3000 nm,
-ARM 2,30000,1986,Acorn,2000 nm,30 mm²
-Motorola 68030,273000,1987,Motorola,800 nm,102 mm²
-TI Explorer's 32-bit Lisp machine chip,553000,1987,Texas Instruments,2000 nm,
-DEC WRL MultiTitan,180000,1988,DEC WRL,1500 nm,61 mm²
-Intel i960,250000,1988,Intel,600 nm,
-Intel 80486,1180235,1989,Intel,1000 nm,173 mm²
-ARM 3,310000,1989,Acorn,1500 nm,87 mm²
-68040,1200000,1990,Motorola,650 nm,152 mm²
-R4000,1350000,1991,MIPS,1000 nm,213 mm²
-ARM 6,35000,1991,ARM,800 nm,
-Pentium,3100000,1993,Intel,800 nm,294 mm²
-ARM700,578977,1994,ARM,700 nm,68.51 mm²
-68060,2500000,1994,Motorola,600 nm,218 mm²
-SA-110,2500000,1995,Acorn/DEC/Apple,350 nm,50 mm²
-ARM 9TDMI,111000,1999,Acorn,350 nm,4.8 mm²
-Pentium Pro,5500000,1995,Intel,500 nm,307 mm²
-AMD K5,4300000,1996,AMD,500 nm,251 mm²
-Pentium II Klamath,7500000,1997,Intel,350 nm,195 mm²
-Pentium II Deschutes,7500000,1998,Intel,250 nm,113 mm²
-AMD K6,8800000,1997,AMD,350 nm,162 mm²
-Pentium III Katmai,9500000,1999,Intel,250 nm,128 mm²
-Pentium III Coppermine,21000000,2000,Intel,180 nm,80 mm²
-Pentium II Mobile Dixon,27400000,1999,Intel,180 nm,180 mm²
-Pentium III Tualatin,45000000,2001,Intel,130 nm,81 mm²
-AMD K6-III,21300000,1999,AMD,250 nm,118 mm²
-AMD K7,22000000,1999,AMD,250 nm,184 mm²
-Pentium 4 Willamette,42000000,2000,Intel,180 nm,217 mm²
-Pentium 4 Northwood,55000000,2002,Intel,130 nm,145 mm²
-Pentium 4 Prescott,112000000,2004,Intel,90 nm,110 mm²
-Pentium 4 Prescott-2M,169000000,2005,Intel,90 nm,143 mm²
-Pentium 4 Cedar Mill,184000000,2006,Intel,65 nm,90 mm²
-Pentium D Smithfield,228000000,2005,Intel,90 nm,206 mm²
-Pentium D Presler,362000000,2006,Intel,65 nm,162 mm²
-Atom,47000000,2008,Intel,45 nm,24 mm²
-Barton,54300000,2003,AMD,130 nm,101 mm²
-AMD K8,105900000,2003,AMD,130 nm,193 mm²
-Itanium 2 McKinley,220000000,2002,Intel,180 nm,421 mm²
-Cell,241000000,2006,Sony/IBM/Toshiba,90 nm,221 mm²
-Core 2 Duo Conroe,291000000,2006,Intel,65 nm,143 mm²
-Core 2 Duo Allendale,169000000,2007,Intel,65 nm,111 mm²
-Itanium 2 Madison 6M,410000000,2003,Intel,130 nm,374 mm²
-Atom Medfield,432000000,2012,Intel,32 nm,64 mm²
-AMD K10 quad-core 2M L3,463000000,2007,AMD,65 nm,283 mm²
-ARM Cortex-A9,26000000,2007,ARM,45 nm,31 mm²
-Core 2 Duo Wolfdale 3M,230000000,2008,Intel,45 nm,83 mm²
-Itanium 2 with 9 MB cache,592000000,2004,Intel,130 nm,432 mm²
-Core 2 Duo Wolfdale,411000000,2007,Intel,45 nm,107 mm²
-Core i7 (Quad),731000000,2008,Intel,45 nm,263 mm²
-AMD K10 quad-core 6M L3,758000000,2008,AMD,45 nm,258 mm²
-POWER6,789000000,2007,IBM,65 nm,341 mm²
-Six-core Opteron 2400,904000000,2009,AMD,45 nm,346 mm²
-16-core SPARC T3,1000000000,2010,Sun/Oracle,40 nm,377 mm²
-Apple A7 (dual-core ARM64 mobile SoC),1000000000,2013,Apple,28 nm,102 mm²
-Quad-core + GPU Core i7,1160000000,2011,Intel,32 nm,216 mm²
-Six-core Core i7 (Gulftown),1170000000,2010,Intel,32 nm,240 mm²
-8-core POWER7 32M L3,1200000000,2010,IBM,45 nm,567 mm²
-8-core AMD Bulldozer,1200000000,2012,AMD,32 nm,315 mm²
-Quad-core + GPU AMD Trinity,1303000000,2012,AMD,32 nm,246 mm²
-Quad-core z196,1400000000,2010,IBM,45 nm,512 mm²
-Quad-core + GPU Core i7 Ivy Bridge,1400000000,2012,Intel,22 nm,160 mm²
-Quad-core + GPU Core i7 Haswell,1400000000,2014,Intel,22 nm,177 mm²
-Dual-core Itanium 2,1700000000,2006,Intel,90 nm,596 mm²
-Quad-core + GPU GT2 Core i7 Skylake K,1750000000,2015,Intel,14 nm,122 mm²
-Six-core Core i7 Ivy Bridge E,1860000000,2013,Intel,22 nm,256 mm²
-Dual-core + GPU Iris Core i7 Broadwell-U,1900000000,2015,Intel,14 nm,133 mm²
-Six-core Xeon 7400,1900000000,2008,Intel,45 nm,503 mm²
-Quad-core Itanium Tukwila,2000000000,2010,Intel,65 nm,699 mm²
-Apple A8 (dual-core ARM64 mobile SoC),2000000000,2014,Apple,20 nm,89 mm²
-Apple A9 (dual-core ARM64 mobile SoC),> 2000000000,2015,Apple,14 nm (Samsung) / 16 nm (TSMC),96 mm² (Samsung) / 104.5 mm² (TSMC)
-Apple A9X (dual-core ARM64 mobile SoC),> 3000000000,2015,Apple,16 nm,143.9 mm²
-8-core POWER7+ 80 MB L3 cache,2100000000,2012,IBM,32 nm,567 mm²
-Six-core Core i7/8-core Xeon E5,2270000000,2011,Intel,32 nm,434 mm²
-(Sandy Bridge-E/EP),,,,,
-8-core Xeon Nehalem-EX,2300000000,2010,Intel,45 nm,684 mm²
-8-core Core i7 Haswell-E,2600000000,2014,Intel,22 nm,355 mm²
-10-core Xeon Westmere-EX,2600000000,2011,Intel,32 nm,512 mm²
-Six-core zEC12,2750000000,2012,IBM,32 nm,597 mm²
-Apple A8X (tri-core ARM64 mobile SoC),3000000000,2014,Apple,20 nm,128 mm²
-Qualcomm Snapdragon 835 (octa-core ARM64 mobile SoC),3000000000,2016,Qualcomm,10 nm,72.3 mm²
-Qualcomm Snapdragon 845 (octa-core ARM64 mobile SoC),5300000000,2017,Qualcomm,10 nm,94 mm²
-Qualcomm Snapdragon 710 (octa-core ARM64 mobile SoC),,2018,Qualcomm,10 nm,
-Qualcomm Snapdragon 675 (octa-core ARM64 mobile SoC),,2018,Qualcomm,11 nm,
-Qualcomm Snapdragon 850 (octa-core ARM64 mobile SoC),5300000000,2017,Qualcomm,10 nm,94  mm²
-Qualcomm Snapdragon 855 (octa-core ARM64 mobile SoC),,2018,Qualcomm,7 nm,73.27  mm²
-Samsung Exynos 9820 (octa-core ARM64 mobile SoC),,2019,Samsung,8 nm,127  mm²
-Qualcomm Snapdragon 8cx / SCX8180 (octa-core ARM64 mobile SoC),8500000000,2018,Qualcomm,7 nm,112  mm²
-8-core Itanium Poulson,3100000000,2012,Intel,32 nm,544 mm²
-10-core Core i7 Broadwell-E,3200000000,2016,Intel,14 nm,246 mm²Apple A10 Fusion (quad-core ARM64 mobile SoC),3300000000,2016,Apple,16 nm,125 mm²
-IBM z13,3990000000,2015,IBM,22 nm,678 mm²
-12-core POWER8,4200000000,2013,IBM,22 nm,650 mm²
-Apple A11 Bionic (hexa-core ARM64 mobile SoC),4300000000,2017,Apple,10 nm,89.23 mm²
-15-core Xeon Ivy Bridge-EX,4310000000,2014,Intel,22 nm,541 mm²
-Zeppelin SoC Ryzen,4800000000,2017,AMD,14 nm,192 mm²
-Ryzen 5 1600 Ryzen,4800000000,2017,AMD,14 nm,213 mm²
-Ryzen 5 1600 X Ryzen,4800000000,2017,AMD,14 nm,213 mm²
-61-core Xeon Phi,5000000000,2012,Intel,22 nm,720 mm²
-Xbox One main SoC,5000000000,2013,Microsoft/AMD,28 nm,363 mm²
-18-core Xeon Haswell-E5,5560000000,2014,Intel,22 nm,661 mm²
-IBM z14,6100000000,2017,IBM,14 nm,696 mm²
-Apple A12 Bionic (hexa-core ARM64 mobile SoC),6900000000,2018,Apple,7 nm,83.27 mm2
-HiSilicon Kirin 960 (octa-core ARM64 mobile SoC),4000000000,2016,Huawei,16 nm,110.00 mm2
-HiSilicon Kirin 980 (octa-core ARM64 mobile SoC),6900000000,2018,Huawei,7 nm,74.13 mm2
-HiSilicon Kirin 970 (octa-core ARM64 mobile SoC),5500000000,2017,Huawei,10 nm,96.72 mm2
-HiSilicon Kirin 710 (octa-core ARM64 mobile SoC),5500000000,2018,Huawei,12 nm,
-Xbox One X (Project Scorpio) main SoC,7000000000,2017,Microsoft/AMD,16 nm,360 mm²IBM z13 Storage Controller,7100000000,2015,IBM,22 nm,678 mm²
-28-core Xeon Platinum 8180,8000000000,2017,Intel,14 nm,
-22-core Xeon Broadwell-E5,7200000000,2016,Intel,14 nm,456 mm²
-POWER9,8000000000,2017,IBM,14 nm,695 mm²
-72-core Xeon Phi,8000000000,2016,Intel,14 nm,683 mm²
-IBM z14 Storage Controller,9700000000,2017,IBM,14 nm,696 mm²
-32-core SPARC M7,10000000000,2015,Oracle,20 nm,
-Apple A12X Bionic (octa-core ARM64 mobile SoC),10000000000,2018,Apple,7 nm,122 mm2
-Apple A10X Fusion (hexa-core ARM64 mobile SoC),4300000000,2017,Apple,10 nm,96.40 mm2
-Centriq 2400,18000000000,2017,Qualcomm,10 nm,398 mm2
-32-core AMD Epyc,19200000000,2017,AMD,14 nm,768 mm2
-GC2 IPU,23600000000,2018,Graphcore,16 nm,825 mm2
-Tegra Xavier SoC,9000000000,2018,Nvidia,12 nm,350 mm²
+Intel 4004,2300,1971,Intel,10000Â nm,12Â mmÂ²,CPU
+Intel 8008,3500,1972,Intel,10000Â nm,14Â mmÂ²,CPU
+MOS Technology 6502,3510,1975,MOS Technology,8000Â nm,21Â mmÂ²,CPU
+Motorola 6800,4100,1974,Motorola,6000Â nm,16Â mmÂ²,CPU
+Intel 8080,4500,1974,Intel,6000Â nm,20Â mmÂ²,CPU
+RCA 1802,5000,1974,RCA,5000Â nm,27Â mmÂ²,CPU
+TMS 1000,8000,1974,Texas Instruments,8000Â nm,11Â mmÂ²,CPU
+Intel 8085,6500,1976,Intel,3000Â nm,20Â mmÂ²,CPU
+Zilog Z80,8500,1976,Zilog,4000Â nm,18Â mmÂ²,CPU
+Motorola 6809,9000,1978,Motorola,5000Â nm,21Â mmÂ²,CPU
+Intel 8086,29000,1978,Intel,3000Â nm,33Â mmÂ²,CPU
+Intel 8088,29000,1979,Intel,3000Â nm,33Â mmÂ²,CPU
+WDC 65C02,11500,1981,WDC,3000Â nm,6Â mmÂ²,CPU
+Intel 80186,55000,1982,Intel,3000Â nm,60Â mmÂ²,CPU
+Motorola 68000,68000,1979,Motorola,3500Â nm,44Â mmÂ²,CPU
+Intel 80286,134000,1982,Intel,1500Â nm,49Â mmÂ²,CPU
+WDC 65C816,22000,1983,WDC,3000Â nm,9Â mmÂ²,CPU
+Motorola 68020,190000,1984,Motorola,2000Â nm,85Â mmÂ²,CPU
+Intel 80386,275000,1985,Intel,1500Â nm,104Â mmÂ²,CPU
+ARM 1,25000,1985,Acorn,3000Â nm,50Â mmÂ²,CPU
+Novix NC4016,16000,1985,Harris Corporation,3000Â nm,,CPU
+ARM 2,30000,1986,Acorn,2000Â nm,30Â mmÂ²,CPU
+Motorola 68030,273000,1987,Motorola,800Â nm,102Â mmÂ²,CPU
+TI Explorer's 32-bitÂ LispÂ machineÂ chip,553000,1987,Texas Instruments,2000Â nm,,CPU
+DEC WRL MultiTitan,180000,1988,DEC WRL,1500Â nm,61Â mmÂ²,CPU
+Intel i960,250000,1988,Intel,600Â nm,,CPU
+Intel 80486,1180235,1989,Intel,1000Â nm,173Â mmÂ²,CPU
+ARM 3,310000,1989,Acorn,1500Â nm,87Â mmÂ²,CPU
+68040,1200000,1990,Motorola,650Â nm,152Â mmÂ²,CPU
+R4000,1350000,1991,MIPS,1000Â nm,213Â mmÂ²,CPU
+ARM 6,35000,1991,ARM,800Â nm,,CPU
+Pentium,3100000,1993,Intel,800Â nm,294Â mmÂ²,CPU
+ARM700,578977,1994,ARM,700Â nm,68.51Â mmÂ²,CPU
+68060,2500000,1994,Motorola,600Â nm,218Â mmÂ²,CPU
+SA-110,2500000,1995,Acorn/DEC/Apple,350Â nm,50Â mmÂ²,CPU
+ARM 9TDMI,111000,1999,Acorn,350Â nm,4.8Â mmÂ²,CPU
+Pentium Pro,5500000,1995,Intel,500Â nm,307Â mmÂ²,CPU
+AMD K5,4300000,1996,AMD,500Â nm,251Â mmÂ²,CPU
+Pentium IIÂ Klamath,7500000,1997,Intel,350Â nm,195Â mmÂ²,CPU
+Pentium IIÂ Deschutes,7500000,1998,Intel,250Â nm,113Â mmÂ²,CPU
+AMD K6,8800000,1997,AMD,350Â nm,162Â mmÂ²,CPU
+Pentium IIIÂ Katmai,9500000,1999,Intel,250Â nm,128Â mmÂ²,CPU
+Pentium IIIÂ Coppermine,21000000,2000,Intel,180Â nm,80Â mmÂ²,CPU
+Pentium IIÂ Mobile Dixon,27400000,1999,Intel,180Â nm,180Â mmÂ²,CPU
+Pentium IIIÂ Tualatin,45000000,2001,Intel,130Â nm,81Â mmÂ²,CPU
+AMD K6-III,21300000,1999,AMD,250Â nm,118Â mmÂ²,CPU
+AMD K7,22000000,1999,AMD,250Â nm,184Â mmÂ²,CPU
+Pentium 4Â Willamette,42000000,2000,Intel,180Â nm,217Â mmÂ²,CPU
+Pentium 4Â Northwood,55000000,2002,Intel,130Â nm,145Â mmÂ²,CPU
+Pentium 4Â Prescott,112000000,2004,Intel,90Â nm,110Â mmÂ²,CPU
+Pentium 4Â Prescott-2M,169000000,2005,Intel,90Â nm,143Â mmÂ²,CPU
+Pentium 4Â Cedar Mill,184000000,2006,Intel,65Â nm,90Â mmÂ²,CPU
+Pentium DÂ Smithfield,228000000,2005,Intel,90Â nm,206Â mmÂ²,CPU
+Pentium DÂ Presler,362000000,2006,Intel,65Â nm,162Â mmÂ²,CPU
+Atom,47000000,2008,Intel,45Â nm,24Â mmÂ²,CPU
+Barton,54300000,2003,AMD,130Â nm,101Â mmÂ²,CPU
+AMD K8,105900000,2003,AMD,130Â nm,193Â mmÂ²,CPU
+Itanium 2Â McKinley,220000000,2002,Intel,180Â nm,421Â mmÂ²,CPU
+Cell,241000000,2006,Sony/IBM/Toshiba,90Â nm,221Â mmÂ²,CPU
+Core 2 DuoÂ Conroe,291000000,2006,Intel,65Â nm,143Â mmÂ²,CPU
+Core 2 DuoÂ Allendale,169000000,2007,Intel,65Â nm,111Â mmÂ²,CPU
+Itanium 2Â Madison 6M,410000000,2003,Intel,130Â nm,374Â mmÂ²,CPU
+AtomÂ Medfield,432000000,2012,Intel,32Â nm,64Â mmÂ²,CPU
+AMD K10Â quad-core 2M L3,463000000,2007,AMD,65Â nm,283Â mmÂ²,CPU
+ARM Cortex-A9,26000000,2007,ARM,45Â nm,31Â mmÂ²,CPU
+Core 2 DuoÂ Wolfdale 3M,230000000,2008,Intel,45Â nm,83Â mmÂ²,CPU
+Itanium 2Â with 9Â MBÂ cache,592000000,2004,Intel,130Â nm,432Â mmÂ²,CPU
+Core 2 DuoÂ Wolfdale,411000000,2007,Intel,45Â nm,107Â mmÂ²,CPU
+Core i7Â (Quad),731000000,2008,Intel,45Â nm,263Â mmÂ²,CPU
+AMD K10Â quad-core 6M L3,758000000,2008,AMD,45Â nm,258Â mmÂ²,CPU
+POWER6,789000000,2007,IBM,65Â nm,341Â mmÂ²,CPU
+Six-coreÂ OpteronÂ 2400,904000000,2009,AMD,45Â nm,346Â mmÂ²,CPU
+16-coreÂ SPARC T3,1000000000,2010,Sun/Oracle,40Â nm,377Â mmÂ²,CPU
+Apple A7Â (dual-coreÂ ARM64Â mobile SoC),1000000000,2013,Apple,28Â nm,102Â mmÂ²,CPU
+Quad-core +Â GPUÂ Core i7,1160000000,2011,Intel,32Â nm,216Â mmÂ²,CPU
+Six-coreÂ Core i7Â (Gulftown),1170000000,2010,Intel,32Â nm,240Â mmÂ²,CPU
+8-coreÂ POWER7Â 32M L3,1200000000,2010,IBM,45Â nm,567Â mmÂ²,CPU
+8-coreÂ AMD Bulldozer,1200000000,2012,AMD,32Â nm,315Â mmÂ²,CPU
+Quad-core + GPUÂ AMD Trinity,1303000000,2012,AMD,32Â nm,246Â mmÂ²,CPU
+Quad-coreÂ z196,1400000000,2010,IBM,45Â nm,512Â mmÂ²,CPU
+Quad-core + GPUÂ Core i7 Ivy Bridge,1400000000,2012,Intel,22Â nm,160Â mmÂ²,CPU
+Quad-core + GPUÂ Core i7 Haswell,1400000000,2014,Intel,22Â nm,177Â mmÂ²,CPU
+Dual-coreÂ Itanium 2,1700000000,2006,Intel,90Â nm,596Â mmÂ²,CPU
+Quad-core + GPU GT2Â Core i7 Skylake K,1750000000,2015,Intel,14Â nm,122Â mmÂ²,CPU
+Six-coreÂ Core i7 Ivy Bridge E,1860000000,2013,Intel,22Â nm,256Â mmÂ²,CPU
+Dual-core + GPU IrisÂ Core i7 Broadwell-U,1900000000,2015,Intel,14Â nm,133Â mmÂ²,CPU
+Six-coreÂ XeonÂ 7400,1900000000,2008,Intel,45Â nm,503Â mmÂ²,CPU
+Quad-core ItaniumÂ Tukwila,2000000000,2010,Intel,65Â nm,699Â mmÂ²,CPU
+Apple A8Â (dual-core ARM64 mobile SoC),2000000000,2014,Apple,20Â nm,89Â mmÂ²,CPU
+Apple A9Â (dual-core ARM64 mobile SoC),> 2000000000,2015,Apple,14Â nm (Samsung) / 16Â nm (TSMC),96Â mmÂ² (Samsung) / 104.5Â mmÂ² (TSMC),CPU
+Apple A9XÂ (dual-core ARM64 mobile SoC),> 3000000000,2015,Apple,16Â nm,143.9Â mmÂ²,CPU
+8-coreÂ POWER7+Â 80Â MB L3 cache,2100000000,2012,IBM,32Â nm,567Â mmÂ²,CPU
+Six-coreÂ Core i7/8-core Xeon E5,2270000000,2011,Intel,32Â nm,434Â mmÂ²,CPU
+(Sandy Bridge-E/EP),,,,,,CPU
+8-coreÂ XeonÂ Nehalem-EX,2300000000,2010,Intel,45Â nm,684Â mmÂ²,CPU
+8-coreÂ Core i7 Haswell-E,2600000000,2014,Intel,22Â nm,355Â mmÂ²,CPU
+10-coreÂ XeonÂ Westmere-EX,2600000000,2011,Intel,32Â nm,512Â mmÂ²,CPU
+Six-coreÂ zEC12,2750000000,2012,IBM,32Â nm,597Â mmÂ²,CPU
+Apple A8XÂ (tri-core ARM64 mobile SoC),3000000000,2014,Apple,20Â nm,128Â mmÂ²,CPU
+Qualcomm Snapdragon 835Â (octa-core ARM64 mobile SoC),3000000000,2016,Qualcomm,10Â nm,72.3Â mmÂ²,CPU
+Qualcomm Snapdragon 845Â (octa-core ARM64 mobile SoC),5300000000,2017,Qualcomm,10Â nm,94Â mmÂ²,CPU
+Qualcomm Snapdragon 710Â (octa-core ARM64 mobile SoC),,2018,Qualcomm,10Â nm,,CPU
+Qualcomm Snapdragon 675Â (octa-core ARM64 mobile SoC),,2018,Qualcomm,11Â nm,,CPU
+Qualcomm Snapdragon 850Â (octa-core ARM64 mobile SoC),5300000000,2017,Qualcomm,10Â nm,94 Â mmÂ²,CPU
+Qualcomm Snapdragon 855Â (octa-core ARM64 mobile SoC),,2018,Qualcomm,7Â nm,73.27 Â mmÂ²,CPU
+SamsungÂ Exynos 9820 (octa-core ARM64 mobile SoC),,2019,Samsung,8Â nm,127 Â mmÂ²,CPU
+Qualcomm Snapdragon 8cx / SCX8180Â (octa-core ARM64 mobile SoC),8500000000,2018,Qualcomm,7Â nm,112 Â mmÂ²,CPU
+8-core ItaniumÂ Poulson,3100000000,2012,Intel,32Â nm,544Â mmÂ²,CPU
+10-coreÂ Core i7 Broadwell-E,3200000000,2016,Intel,14Â nm,246Â mmÂ²,CPU
+Apple A10 FusionÂ (quad-core ARM64 mobile SoC),3300000000,2016,Apple,16Â nm,125Â mmÂ²,CPU
+IBM z13,3990000000,2015,IBM,22Â nm,678Â mmÂ²,CPU
+12-coreÂ POWER8,4200000000,2013,IBM,22Â nm,650Â mmÂ²,CPU
+Apple A11 BionicÂ (hexa-core ARM64 mobile SoC),4300000000,2017,Apple,10Â nm,89.23Â mmÂ²,CPU
+15-core Xeon Ivy Bridge-EX,4310000000,2014,Intel,22Â nm,541Â mmÂ²,CPU
+Zeppelin SoCÂ Ryzen,4800000000,2017,AMD,14Â nm,192Â mmÂ²,CPU
+Ryzen 5 1600Â Ryzen,4800000000,2017,AMD,14Â nm,213Â mmÂ²,CPU
+Ryzen 5 1600 XÂ Ryzen,4800000000,2017,AMD,14Â nm,213Â mmÂ²,CPU
+61-coreÂ Xeon Phi,5000000000,2012,Intel,22Â nm,720Â mmÂ²,CPU
+Xbox OneÂ main SoC,5000000000,2013,Microsoft/AMD,28Â nm,363Â mmÂ²,CPU
+18-coreÂ Xeon Haswell-E5,5560000000,2014,Intel,22Â nm,661Â mmÂ²,CPU
+IBM z14,6100000000,2017,IBM,14Â nm,696Â mmÂ²,CPU
+Apple A12 BionicÂ (hexa-core ARM64 mobile SoC),6900000000,2018,Apple,7Â nm,83.27Â mm2,CPU
+HiSilicon Kirin 960 (octa-core ARM64 mobile SoC),4000000000,2016,Huawei,16Â nm,110.00Â mm2,CPU
+HiSilicon Kirin 980 (octa-core ARM64 mobile SoC),6900000000,2018,Huawei,7Â nm,74.13Â mm2,CPU
+HiSilicon Kirin 970 (octa-core ARM64 mobile SoC),5500000000,2017,Huawei,10Â nm,96.72Â mm2,CPU
+HiSilicon Kirin 710 (octa-core ARM64 mobile SoC),5500000000,2018,Huawei,12Â nm,,CPU
+Xbox One X (Project Scorpio)Â main SoC,7000000000,2017,Microsoft/AMD,16Â nm,360Â mmÂ²,CPU
+IBM z13 Storage Controller,7100000000,2015,IBM,22Â nm,678Â mmÂ²,CPU
+28-coreÂ Xeon Platinum 8180,8000000000,2017,Intel,14Â nm,,CPU
+22-coreÂ Xeon Broadwell-E5,7200000000,2016,Intel,14Â nm,456Â mmÂ²,CPU
+POWER9,8000000000,2017,IBM,14Â nm,695Â mmÂ²,CPU
+72-coreÂ Xeon Phi,8000000000,2016,Intel,14Â nm,683Â mmÂ²,CPU
+IBM z14 Storage Controller,9700000000,2017,IBM,14Â nm,696Â mmÂ²,CPU
+32-coreÂ SPARCÂ M7,10000000000,2015,Oracle,20Â nm,,CPU
+Apple A12X BionicÂ (octa-core ARM64 mobile SoC),10000000000,2018,Apple,7Â nm,122Â mm2,CPU
+Apple A10X FusionÂ (hexa-core ARM64 mobile SoC),4300000000,2017,Apple,10Â nm,96.40Â mm2,CPU
+CentriqÂ 2400,18000000000,2017,Qualcomm,10Â nm,398Â mm2,CPU
+32-core AMDÂ Epyc,19200000000,2017,AMD,14Â nm,768Â mm2,CPU
+GC2 IPU,23600000000,2018,Graphcore,16Â nm,825Â mm2,CPU
+Tegra Xavier SoC,9000000000,2018,Nvidia,12Â nm,350Â mmÂ²,CPU
+NV3,3500000,1997,NVIDIA,350Â nm,90Â mmÂ²,GPU
+Rage 128,8000000,1999,AMD,250Â nm,70Â mmÂ²,GPU
+NV5,15000000,1999,Nvidia,250Â nm,,GPU
+NV10,23000000,1999,Nvidia,220Â nm,111Â mmÂ²,GPU
+NV11,20000000,2000,Nvidia,180Â nm,65Â mmÂ²,GPU
+NV15,25000000,2000,Nvidia,180Â nm,81Â mmÂ²,GPU
+R100,30000000,2000,AMD,180Â nm,97Â mmÂ²,GPU
+NV20,57000000,2001,Nvidia,150Â nm,128Â mmÂ²,GPU
+R200,60000000,2001,AMD,150Â nm,68Â mmÂ²,GPU
+NV25,63000000,2002,Nvidia,150Â nm,142Â mmÂ²,GPU
+R300,107000000,2002,AMD,150Â nm,218Â mmÂ²,GPU
+R360,117000000,2003,AMD,150Â nm,218Â mmÂ²,GPU
+NV38,135000000,2003,Nvidia,130Â nm,207Â mmÂ²,GPU
+R480,160000000,2004,AMD,130Â nm,297Â mmÂ²,GPU
+G86 Tesla,210000000,2007,Nvidia,80Â nm,127Â mmÂ²,GPU
+G98 Tesla,210000000,2008,Nvidia,65Â nm,86Â mmÂ²,GPU
+NV40,222000000,2004,Nvidia,130Â nm,305Â mmÂ²,GPU
+RV710,242000000,2008,AMD,55Â nm,73Â mmÂ²,GPU
+GT218 Tesla,260000000,2009,Nvidia,40Â nm,57Â mmÂ²,GPU
+G84 Tesla,289000000,2007,Nvidia,80Â nm,169Â mmÂ²,GPU
+Cedar RV810,292000000,2010,AMD,40Â nm,59Â mmÂ²,GPU
+GF119 Fermi,292000000,2011,Nvidia,40Â nm,79Â mmÂ²,GPU
+G70,303000000,2005,Nvidia,110Â nm,333Â mmÂ²,GPU
+G96 Tesla,314000000,2008,Nvidia,55Â nm,121Â mmÂ²,GPU
+R520,321000000,2005,AMD,90Â nm,288Â mmÂ²,GPU
+Caicos RV910,370000000,2011,AMD,40Â nm,67Â mmÂ²,GPU
+R580,384000000,2006,AMD,90Â nm,352Â mmÂ²,GPU
+GT216 Tesla,486000000,2009,Nvidia,40Â nm,100Â mmÂ²,GPU
+G94 Tesla,505000000,2008,Nvidia,65Â nm,240Â mmÂ²,GPU
+RV730,514000000,2008,AMD,55Â nm,146Â mmÂ²,GPU
+GF108 Fermi,585000000,2011,Nvidia,40Â nm,116Â mmÂ²,GPU
+Redwood RV830,627000000,2010,AMD,40Â nm,104Â mmÂ²,GPU
+RV670,666000000,2008,AMD,55Â nm,192Â mmÂ²,GPU
+G80,681000000,2006,Nvidia,90Â nm,480Â mmÂ²,GPU
+R600,700000000,2007,AMD,80Â nm,420Â mmÂ²,GPU
+Turks RV930,716000000,2011,AMD,40Â nm,118Â mmÂ²,GPU
+GT215 Tesla,727000000,2009,Nvidia,40Â nm,144Â mmÂ²,GPU
+G92,754000000,2007,Nvidia,65Â nm,324Â mmÂ²,GPU
+RV740,826000000,2009,AMD,40Â nm,137Â mmÂ²,GPU
+RV770,956000000,2008,AMD,55Â nm,256Â mmÂ²,GPU
+RV790,959000000,2008,AMD,55Â nm,282Â mmÂ²,GPU
+Juniper RV840,1040000000,2009,AMD,40Â nm,166Â mmÂ²,GPU
+Oland,1040000000,2013,AMD,28Â nm,90Â mmÂ²,GPU
+GF106 Fermi,1170000000,2010,Nvidia,40Â nm,238Â mmÂ²,GPU
+GK107 Kepler,1270000000,2012,Nvidia,28Â nm,118Â mmÂ²,GPU
+GT200b Tesla,1400000000,2008,Nvidia,55Â nm,470Â mmÂ²,GPU
+GT200 Tesla,1400000000,2008,Nvidia,65Â nm,576Â mmÂ²,GPU
+Cape Verde,1500000000,2012,AMD,28Â nm,123Â mmÂ²,GPU
+Barts RV940,1700000000,2010,AMD,40Â nm,255Â mmÂ²,GPU
+GP108 Pascal,1850000000,2017,Nvidia,14Â nm,74Â mmÂ²,GPU
+GM107 Maxwell,1870000000,2014,Nvidia,28Â nm,148Â mmÂ²,GPU
+GF104 Fermi,1950000000,2011,Nvidia,40Â nm,332Â mmÂ²,GPU
+Bonaire,2080000000,2013,AMD,28Â nm,160Â mmÂ²,GPU
+Cypress RV870,2154000000,2009,AMD,40Â nm,334Â mmÂ²,GPU
+Polaris 12 Lexa,2200000000,2017,AMD,14Â nm,101Â mmÂ²,GPU
+GK106 Kepler,2540000000,2012,Nvidia,28Â nm,221Â mmÂ²,GPU
+Cayman RV970,2640000000,2010,AMD,40Â nm,389Â mmÂ²,GPU
+Pitcairn,2800000000,2012,AMD,28Â nm,212Â mmÂ²,GPU
+GM206 Maxwell,2940000000,2014,Nvidia,28Â nm,228Â mmÂ²,GPU
+Polaris 11 Baffin,3000000000,2016,AMD,14Â nm,123Â mmÂ²,GPU
+GF100 Fermi,3200000000,2010 Mar,Nvidia,40Â nm,526Â mmÂ²,GPU
+GF110 Fermi,3000000000,2010 Nov,Nvidia,40Â nm,520Â mmÂ²,GPU
+GP107 Pascal,3300000000,2017,Nvidia,14Â nm,132Â mmÂ²,GPU
+GK104 Kepler,3540000000,2012,Nvidia,28Â nm,294Â mmÂ²,GPU
+Tahiti,4312711873,2011,AMD,28Â nm,365Â mmÂ²,GPU
+GP106 Pascal,4400000000,2016,Nvidia,16Â nm,200Â mmÂ²,GPU
+Tonga,5000000000,2014,AMD,28Â nm,366Â mmÂ²,GPU
+GM204 Maxwell,5200000000,2014,Nvidia,28Â nm,398Â mmÂ²,GPU
+PolarisÂ 10 Ellesmere,5700000000,2016,AMD,14Â nm,232Â mmÂ²,GPU
+Hawaii,6300000000,2013,AMD,28Â nm,438Â mmÂ²,GPU
+GK110 Kepler,7080000000,2012,Nvidia,28Â nm,561Â mmÂ²,GPU
+GP104 Pascal,7200000000,2016,Nvidia,16Â nm,314Â mmÂ²,GPU
+GP102 Pascal,11800000000,2017,Nvidia,16Â nm,471Â mmÂ²,GPU
+GM200 Maxwell,8000000000,2015,Nvidia,28Â nm,601Â mmÂ²,GPU
+Fiji,8900000000,2015,AMD,28Â nm,596Â mmÂ²,GPU
+Vega 10,12500000000,2017,AMD,14Â nm,484Â mmÂ²,GPU
+Vega 20,13280000000,2018,AMD,7Â nm,331Â mmÂ²,GPU
+GP100 Pascal,15300000000,2016,Nvidia,16Â nm,610Â mmÂ²,GPU
+TU102 Turing,18600000000,2018,Nvidia,12Â nm,754Â mmÂ²,GPU
+GV100Â Volta,21100000000,2017,Nvidia,12Â nm,815Â mmÂ²,GPU
