@@ -1,3 +1,4 @@
+Processor,Transistor count,Date of introduction,Designer,Process,Area,Type
 Intel 4004,2300,1971,Intel,10000 nm,12 mm²,CPU
 Intel 8008,3500,1972,Intel,10000 nm,14 mm²,CPU
 MOS Technology 6502,3510,1975,MOS Technology,8000 nm,21 mm²,CPU
